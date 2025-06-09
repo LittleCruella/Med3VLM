@@ -6,7 +6,7 @@ Vision-language models (VLMs) have shown promise in 2D medical image analysis, b
 ## Installation
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/mirthAI/Med3DVLM.git
+git https://github.com/LittleCruella/Med3VLM.git
 cd Med3DVLM
 ```
 To install the required packages, you can use the following command:
