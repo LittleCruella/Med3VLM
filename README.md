@@ -14,11 +14,6 @@ To install the required packages, you can use the following command:
 pip install -r requirements.txt
 ```
 
-You need to set the `PYTHONPATH` environment variable to the root directory of the project. You can do this by running the following command in your terminal:
-
-```bash
-export PYTHONPATH=$(pwd):$PYTHONPATH
-```
 
 ## Datasets
 In the paper, we train and evaluate our model on report generation and vision question answering tasks using the M3D-Cap and M3D-VQA datasets.
