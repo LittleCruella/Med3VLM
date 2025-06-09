@@ -1,0 +1,20 @@
+Title:Quiz 100149
+
+
+presentation:Gradually increased throbbing headaches in occipital and frontal regions.
+
+
+patient:Age:50 years
+Gender:Female
+
+
+discussion:
+The features are suggestive of a solitary fibrous tumor of the dura (previously known as a hemangiopericytoma): a lobular, enhancing extra-axial mass with dural attachment, skull erosion, and flow voids.Solitary fibrous tumors of the dura may mimic meningiomas but without calcifications or hyperostosis.A biopsy of the lesion was performed. Pathology reports a mesenchymal non-meningeal tumor: solitary fibrous tumor/hemangiopericytoma.
+
+
+
+study_findings:
+Non-contrast computed tomography (NCCT) images demonstrate a heterogeneous mass with dural attachment in the posterior fossa which causes obstructive hydrocephaly. In the bone window, the lesion erodes the skull base.Contrast-enhanced CT (CECT) demonstrates heterogeneous enhancement and vascular structures within the lesion.
+
+
+

@@ -1,0 +1,19 @@
+Title:Ileocecal adenocarcinoma
+
+
+presentation:Work up for abdominal pain and chronic constipation.
+
+
+patient:
+Age: 50 years
+
+Gender: Male
+
+
+
+discussion:Ileocecal tumoral infiltration; pathology proved adenocarcinoma with enlarged regional lymph nodes. 
+
+
+study_findings:Increased wall thickness due to tumoral infiltration is present at the cecum and proximal ascending colon, accompanied by pericolic fat stranding and several regional enlarged lymph nodes with SAD less than 10 mm. Additionally, the distal portion of the ileum was infiltrated by the mass.The prostate gland is mildly enlarged. Degenerative changes as osteophytosis are seen in the lumbar spine.Grade I spondylolisthesis of L5 on S1 is present with bilateral spondylolysis.
+
+

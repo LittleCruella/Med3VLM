@@ -1,0 +1,19 @@
+Title:Metastatic ascending colon adenocarcinoma
+
+
+presentation:Abdominal pain and chronic constipation.
+
+
+patient:
+Age: 55 years
+
+Gender: Female
+
+
+
+discussion:Colon mass; pathology proved adenocarcinoma, with regional, para aortocaval, and porta hepatis enlarged lymph nodes and multiple liver metastases. 
+
+
+study_findings:Increased wall thickness due to tumoral infiltration is present in ascending colon, accompanied by pericolic fat stranding and several regional enlarged lymph nodes with SAD less than 18 mm.Multiple low enhancing masses are seen at the liver less than 55 mm, inferring metastases.Several enlarged lymph nodes with SAD less than 16 mm in porta hepatis and para aortocaval regions.The uterus contains a few fibroids. Some of them are calcified. The adnexa are unremarkable. A small amount of free fluid is noted at the posterior cul de sac.
+
+

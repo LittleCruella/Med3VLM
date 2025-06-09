@@ -1,0 +1,19 @@
+Title:Invasive ductal carcinoma of the breast
+
+
+presentation:A palpable mass lesion in the right breast lower outer quadrant and BIRADS IV on ultrasound exam.
+
+
+patient:
+Age: 65 years
+
+Gender: Female
+
+
+
+discussion:The case illustrates the contrast-enhanced MDCT features of pathology-proved invasive ductal carcinoma of the breast. The prognosis is mostly based on molecular subtypes 1.
+
+
+study_findings:A solid-necrotic and relatively ill-defined and lobulated margin mass lesion with heterogeneous enhancement and the size axial width up to 45 x 40 mm and height up to 32 mm in the right breast lower outer quadrant is seen. A solid nodule up to 15 mm in the left thyroid lobe anterior lateral margin is seen. Fatty change in the liver is noted.
+
+

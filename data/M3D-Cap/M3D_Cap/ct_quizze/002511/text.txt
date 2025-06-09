@@ -1,0 +1,20 @@
+Title:Quiz 100120
+
+
+presentation:The patient presented with painful enlargement of right abdominal wall lump and failure to pass feces or flatus for 4 days.
+
+
+patient:Age:70 years
+Gender:Male
+
+
+discussion:
+The patient underwent operative reduction of the same successfully and was relieved of his signs and symptoms.
+
+
+
+study_findings:
+There is evidence of incarcerated right paraumbilical hernia containing transverse colon, with inflammation of hernial fat and obstructive dilatation of colon proximal to it. However, the herniated bowel loop shows normal contrast enhancement. Hernia defect measures 2.7 x 2.7 cm. Dilated caecum measures up to 10 cm diameter. No perforation. No dilatation of small bowel loops.
+
+
+

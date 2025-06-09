@@ -1,0 +1,48 @@
+{
+    "train": [
+        {
+            "image": "M3D_Cap_npy/ct_case/003307/Sagittal_C__portal_venous_phase.nii.gz",
+            "text": "M3D_Cap_npy/ct_case/003307/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/002507/Sagittal_C__portal_venous_phase.nii.gz",
+            "text": "M3D_Cap_npy/ct_quizze/002507/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_case/003309/Sagittal_non_contrast.nii.gz",
+            "text": "M3D_Cap_npy/ct_case/003309/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_case/003306/Sagittal_C__portal_venous_phase.nii.gz",
+            "text": "M3D_Cap_npy/ct_case/003306/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/002511/_Scout.nii.gz",
+            "text": "M3D_Cap_npy/ct_quizze/002511/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/002508/Sagittal_C__delayed.nii.gz",
+            "text": "M3D_Cap_npy/ct_quizze/002508/text.txt"
+        }
+    ],
+    "validation": [
+        {
+            "image": "M3D_Cap_npy/ct_case/003310/Sagittal_C__portal_venous_phase.nii.gz",
+            "text": "M3D_Cap_npy/ct_case/003310/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/002510/Sagittal_non_contrast.nii.gz",
+            "text": "M3D_Cap_npy/ct_quizze/002510/text.txt"
+        }
+    ],
+    "test": [
+        {
+            "image": "M3D_Cap_npy/ct_quizze/002509/Coronal_lung_window.nii.gz",
+            "text": "M3D_Cap_npy/ct_quizze/002509/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_case/003308/Sagittal_C__portal_venous_phase.nii.gz",
+            "text": "M3D_Cap_npy/ct_case/003308/text.txt"
+        }
+    ]
+}

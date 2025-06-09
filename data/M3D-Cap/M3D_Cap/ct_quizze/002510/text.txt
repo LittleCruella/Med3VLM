@@ -1,0 +1,20 @@
+Title:Quiz 100139
+
+
+presentation:Right flank pain, dysuria, and gross hematuria.
+
+
+patient:Age:55 years
+Gender:Male
+
+
+discussion:
+The case illustrates the non-contrast and contrast-enhanced MDCT feature of pathology-proved renal cell carcinoma with lung metastasis. The management of the tumor is based on TNM staging.
+
+
+
+study_findings:
+A well-defined solid necrotic mass lesion with heterogenous enhancement and axial width up to 100 x 80 mm and height up to 80 mm in right kidney upper to middle pole extended within perirenal space, renal sinus, and related pyelocaliceal system are seen. A few calculi up to 6 mm in both kidneys and another calculus coronal height up to 7 mm in the right side ureter distal segment with hydroureteronephrosis upstream are also seen. Note the solid nodules with size up to 32 mm in lungs in limited performed sections in favor of metastasis.
+
+
+

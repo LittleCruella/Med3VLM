@@ -1,0 +1,19 @@
+Title:Ulcerated gastric gastrointestinal stromal tumor
+
+
+presentation:Work up for dyspepsia.
+
+
+patient:
+Age: 80 years
+
+Gender: Male
+
+
+
+discussion:The patient's gastric mass resection and histopathology evaluation confirmed gastrointestinal stromal tumor (GIST) without malignant transformation. 
+
+
+study_findings:A 65×50 mm well defined intraluminal mass is present at the gastric fundus and proximal of the body. Focal defect is present at the right lateral aspect of the mass and could suggest an ulcer.Inhomogeneously, the hepatic attenuation value is less than the spleen, suggesting uneven fatty liver.Linear calcification is present at the lateral aspect of the spleen. Several nonenhanced simple cortical cysts are seen in both kidneys.
+
+

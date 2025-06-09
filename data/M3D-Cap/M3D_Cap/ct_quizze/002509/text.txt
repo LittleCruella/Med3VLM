@@ -1,0 +1,20 @@
+Title:Quiz 100145
+
+
+presentation:Dyspnea on minimal exertion. 
+
+
+patient:Age:40 years
+Gender:Female
+
+
+discussion:
+Hypersensitivity pneumonitis includes a group of diffuse granulomatous parenchymal lung diseases caused by sensitization to a broad variety of organic or inorganic low-molecular antigens.Typical HRCT features encompass ground-glass opacities, mosaic attenuation, and ill-defined centrilobular nodules.
+
+
+
+study_findings:
+Uniformly diffuse low-density ill-defined centrilobular micronodules.Mosaic oligemia with air-trapping.Calcified nodule in right lower lobe consistent with remote phlogosis.
+
+
+
