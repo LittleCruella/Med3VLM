@@ -1,7 +1,6 @@
 #!/bin/bash
 
-deepspeed src/train/train_vlm.py \
-    --deepspeed scripts/zero2.json \
+python src/train/train_vlm.py \
     --wb_name "Med3DVLM-Qwen-2.5-7B-pretrain" \
     --vision_tower "dcformer" \
     --model_name_or_path "Qwen/Qwen2.5-7B-Instruct" \
